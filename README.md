@@ -1,0 +1,4 @@
+the Smart Cradle Monitoring System provides a convenient and reliable solution for parents to monitor and care for their babies, even when they are not physically present in the same room.![Screenshot 2024-03-17 080419](https://github.com/NadellaVarshini/smart-cradle-monitoring-system-by-using-iot/assets/161931446/28c5b76f-6492-4afb-8afd-4facbf9e1938)
+![Screenshot 2024-03-17 080419](https://github.com/NadellaVarshini/smart-cradle-monitoring-system-by-using-iot/assets/161931446/bb99f210-731b-457a-b452-0978126e4732)
+![Screenshot 2024-03-17 081152](https://github.com/NadellaVarshini/smart-cradle-monitoring-system-by-using-iot/assets/161931446/6f9cf7bd-f937-44bd-bfcc-d8e0f2f61ee7)
+![Screenshot 2024-03-17 080612](https://github.com/NadellaVarshini/smart-cradle-monitoring-system-by-using-iot/assets/161931446/9a0326b6-4fdc-4624-a426-4d2733e132e2)
